@@ -1,0 +1,26 @@
+{
+  "facts": [
+    "Hello! I am LINCOLN EAST.",
+    "I'm a Senior Full-stack developer has been working for 5 years."
+  ],
+  "skills": [
+    "Next.js",
+    "React.js",
+    "Typescript",
+    "Node.js",
+    "PHP",
+    "Material UI",
+    "Redux",
+    "Javascript",
+    "React-Native",
+    "Tailwindcss",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "Firebase",
+    "API Development",
+    "Git",
+    "Github",
+    "Database"
+  ]
+}

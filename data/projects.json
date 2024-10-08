@@ -1,0 +1,67 @@
+[
+  {
+    "index": 1,
+    "title": "SuperPoll",
+    "tools": [
+      "ReactJs",
+      "Next.js",
+      "Typescript",
+      "Tailwindcss",
+      "ExpressJs",
+      "Figma"
+    ],
+    "live_preview": "https://https://superpoll.featurebase.app//",
+    "thubmnail": "/assets/images/projects/project2.png",
+    "overview": "Easy poll creation, real-time results and detailed analytics for engaging insig..."
+  },
+  {
+    "index": 2,
+    "title": "Car Catalog",
+    "tools": ["Next.js", "PostgreSQL", "Tailwindcss", "Prisma","Stripe"],
+    "live_preview": "https://github.com/NightFury520/car_catalog",
+    "thubmnail": "/assets/images/projects/project3.png",
+    "overview": "The Auto Hub Project is a web application built to showcase a catalog of cars. It provides users with information about different car models, allowing them to browse, search, and filter cars based on various criteria."
+  },
+  {
+    "index": 3,
+    "title": "ifixit",
+    "tools": [
+      "Next.js",
+      "Tailwindcss",
+      "React",
+      "SwiperJs",
+      "Stripe"
+    ],
+    "live_preview": "https://eustore.ifixit.com/",
+    "thubmnail": "/assets/images/projects/eustore.png",
+    "overview": "Order Limits ‑ MinMaxify, Boost AI Search & Filter, "
+  },
+  {
+    "index": 4,
+    "title": "Anbernic",
+    "tools": [
+      "Next.js",
+      "Tailwindcss",
+      "React",
+      "Firebase"
+    ],
+    "live_preview": "https://anbernic.com/",
+    "thubmnail": "/assets/images/projects/anbernic.png",
+    "overview": "Hulk Form Builder, Transcy: AI Language Translate, Judge.me Product Reviews, Klaviyo: Email Marketing & SMS, UpPromote Affiliate Marketing"
+  },
+  {
+    "index": 5,
+    "title": "MEBOOK",
+    "tools": [
+      "ReactJs",
+      "Spring",
+      "ExpressJs",
+      "MongoDB",
+      "Redux",
+      "Axios"
+    ],
+    "live_preview": "https://mebook-mmm066550.netlify.app",
+    "thubmnail": "/assets/images/projects/mebook.png",
+    "overview": "📚 MEBOOK is e-books store Website app with ReactJs and ReduxJs (client-side) and NodeJS for backend server (API)"
+  }
+]
