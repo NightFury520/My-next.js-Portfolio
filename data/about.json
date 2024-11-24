@@ -1,9 +1,12 @@
 {
   "facts": [
     "Hello! I am LINCOLN EAST.",
-    "I'm a Senior Full-stack developer has been working for 8 years."
+    "I'm a Senior Software Engineer has been working for 9 years."
   ],
   "skills": [
+    "Python",
+    "Django",
+    "Flask",
     "Next.js",
     "React.js",
     "Typescript",
